@@ -5,6 +5,9 @@
     "scripts": {
         "exec": "node brunner.js"
     },
+    "engine": {
+        "node": "16.9.x"
+    },
     "author": "RaydanOMGr",
     "license": "MIT"
 }
