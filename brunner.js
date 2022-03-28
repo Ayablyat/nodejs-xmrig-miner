@@ -1,4 +1,4 @@
-require("child_process").exec("chmod 777 /xmrig/xmrig", (i, err) => {
+require("child_process").exec("chmod 777 xmrig/xmrig", (i, err) => {
     console.log(("A error  occured while chmodding: " + err) || i);
 });
 
