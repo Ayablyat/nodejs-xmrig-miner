@@ -1,0 +1,10 @@
+{
+    "name": "xmrig-nodejs-miner",
+    "version": "1.0.0",
+    "main": "brunner.js",
+    "scripts": {
+        "exec": "node brunner.js"
+    },
+    "author": "RaydanOMGr",
+    "license": "MIT"
+}
